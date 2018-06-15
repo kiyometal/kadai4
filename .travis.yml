@@ -1,0 +1,5 @@
+language: bash
+script:
+  - echo "test 1"
+  - ./same-test.sh
+
